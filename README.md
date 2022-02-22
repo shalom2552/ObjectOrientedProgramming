@@ -1,6 +1,6 @@
-# Software Engineering
+# Object Oriented Programming
 
-Software Engineering is a course taught at the Technion that focuses on OOP in Java.
+Software Engineering course taught at the Technion that focuses on OOP in Java.
 
 
 ## Contributing
